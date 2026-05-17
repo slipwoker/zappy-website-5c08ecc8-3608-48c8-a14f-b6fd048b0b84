@@ -1,0 +1,75 @@
+# Yossi — Generative Engine Optimization Map
+
+> An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red finger-shaped button, a small shutter opens and a ramp slides out for collecting dirt, while the vacuum activates automatically. A double press opens a drawer for easy vacuum bag replacement. The bin charges via USB, eliminating the need to bend down for cleaning — a truly hands-free, all-in-one smart home hygiene solution.
+
+---
+
+## Pages
+
+### בית
+https://yossi-5c08ecc8.zappy5.app
+An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red
+
+## Legal & Policy
+
+### Privacy Policy
+https://yossi-5c08ecc8.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://yossi-5c08ecc8.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://yossi-5c08ecc8.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://yossi-5c08ecc8.zappy5.app
+- Endpoint: https://yossi-5c08ecc8.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Yossi
+An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red finger-shaped button, a small shutter opens and a ramp slides out for collecting dirt, while the vacuum activates automatically. A double press opens a drawer for easy vacuum bag replacement. The bin charges via USB, eliminating the need to bend down for cleaning — a truly hands-free, all-in-one smart home hygiene solution.
+
+## Services/Products
+- פח אלקטרוני עם חיישן לפתיחת המכסה אוטומטית
+- שואב אבק מובנה בתחתית הפח – מופעל בלחיצת כפתור (האצבע האדומה)
+- רמפה נשלפת לאיסוף לכלוך
+- מגירה אוטומטית להחלפת שקית השואב בלחיצה כפולה
+- טעינה נוחה דרך USB
+
+## Target Audience
+- אנשים שמחפשים פתרון נוח וחכם לניהול אשפה וניקיון הבית, ללא צורך להתכופף
+- חובבי טכנולוגיה חכמה
+- משפחות עסוקות
+- מטפלים באוכלוסייה מבוגרת
+- מספרות
+
+## Industry
+Smart Home Appliances
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://yossi-5c08ecc8.zappy5.app/sitemap.xml
+- Robots: https://yossi-5c08ecc8.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yossi-5c08ecc8.zappy5.app/llms-full.txt
