@@ -1,4 +1,4 @@
-# Yossi
+# BINBOT
 
 An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red finger-shaped button, a small shutter opens and a ramp slides out for collecting dirt, while the vacuum activates automatically. A double press opens a drawer for easy vacuum bag replacement. The bin charges via USB, eliminating the need to bend down for cleaning — a truly hands-free, all-in-one smart home hygiene solution.
 
@@ -11,7 +11,7 @@ Source: https://example.com
 URL: https://example.com
 Description: An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red
 
-best smart home appliances — Yossi
+BINBOT
 
 
 
@@ -97,7 +97,7 @@ best smart home appliances — Yossi
 
 
 
-# לא עוד כפיפהלנקות את הרצפה
+# BINBOT
 
 
 
@@ -880,7 +880,7 @@ best smart home appliances — Yossi
 URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
-מדיניות פרטיות
+BINBOT
 
 
 
@@ -929,7 +929,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 
 
-# מדיניות פרטיות
+# BINBOT
 
 
 
@@ -1159,7 +1159,7 @@ Yossi ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
-הצהרת נגישות
+BINBOT
 
 
 
@@ -1208,7 +1208,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 
 
-# הצהרת נגישות
+# BINBOT
 
 
 
@@ -1447,7 +1447,7 @@ Yossi מחויבת להנגיש את השירותים לכלל הציבור. א�
 URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
-תנאי שימוש
+BINBOT
 
 
 
@@ -1496,7 +1496,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 
 
-# תנאי שימוש
+# BINBOT
 
 
 

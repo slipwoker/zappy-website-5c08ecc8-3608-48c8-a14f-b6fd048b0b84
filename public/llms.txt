@@ -1,4 +1,4 @@
-# Yossi — Generative Engine Optimization Map
+# BINBOT — Generative Engine Optimization Map
 
 > An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red finger-shaped button, a small shutter opens and a ramp slides out for collecting dirt, while the vacuum activates automatically. A double press opens a drawer for easy vacuum bag replacement. The bin charges via USB, eliminating the need to bend down for cleaning — a truly hands-free, all-in-one smart home hygiene solution.
 
@@ -46,7 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Yossi
+## About BINBOT
 An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red finger-shaped button, a small shutter opens and a ramp slides out for collecting dirt, while the vacuum activates automatically. A double press opens a drawer for easy vacuum bag replacement. The bin charges via USB, eliminating the need to bend down for cleaning — a truly hands-free, all-in-one smart home hygiene solution.
 
 ## Services/Products
