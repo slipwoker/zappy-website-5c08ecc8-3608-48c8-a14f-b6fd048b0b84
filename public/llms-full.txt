@@ -2,13 +2,13 @@
 
 An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red finger-shaped button, a small shutter opens and a ramp slides out for collecting dirt, while the vacuum activates automatically. A double press opens a drawer for easy vacuum bag replacement. The bin charges via USB, eliminating the need to bend down for cleaning — a truly hands-free, all-in-one smart home hygiene solution.
 
-Source: https://yossi-5c08ecc8.zappy5.app
+Source: https://example.com
 
 ---
 
 ## best smart home appliances — Yossi
 
-URL: https://yossi-5c08ecc8.zappy5.app
+URL: https://example.com
 Description: An innovative smart trash bin that combines an electronic lid with an automatic sensor and a built-in vacuum cleaner at the bottom. With a single press of a red
 
 best smart home appliances — Yossi
@@ -877,7 +877,7 @@ best smart home appliances — Yossi
 
 ## מדיניות פרטיות
 
-URL: https://yossi-5c08ecc8.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1156,7 +1156,7 @@ Yossi ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://yossi-5c08ecc8.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1444,7 +1444,7 @@ Yossi מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://yossi-5c08ecc8.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
