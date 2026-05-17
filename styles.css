@@ -5740,6 +5740,143 @@ body {
   font-weight: 300;
   letter-spacing: 0.01em;
 }
+
+.index-hero-section h1,
+.index-hero-section h2,
+.index-hero-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 700 !important;
+  letter-spacing: 0.06em !important;
+}
+
+.index-features-section h2,
+.index-features-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+}
+
+.index-process-section h2,
+.index-process-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+}
+
+.index-benefits-section h2,
+.index-benefits-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+}
+
+.index-testimonials-section h2,
+.index-testimonials-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+}
+
+.index-stats-section h2,
+.index-stats-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+}
+
+.index-cta-section h2,
+.index-cta-section h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.03em !important;
+}
+
+.site-footer h2,
+.site-footer h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-weight: 600 !important;
+}
+
+.index-features-section .ifs-heading::after,
+.index-process-section .ips-heading::after,
+.index-benefits-section .benefits-heading::after,
+.index-stats-section .index-stats-title::after,
+.index-cta-section .index-cta-heading::after {
+  content: '';
+  display: block;
+  width: 48px;
+  height: 2px;
+  background: linear-gradient(90deg, var(--primary-color), var(--accent-color), var(--primary-color));
+  margin: 14px auto 0;
+  border-radius: 1px;
+}
+
+.index-features-section .ifs-card,
+.index-benefits-section .benefit-panel,
+.index-testimonials-section .its-card,
+.index-stats-section .index-stats-tile {
+  border-radius: 4px !important;
+  border: 1px solid rgba(201, 168, 76, 0.15) !important;
+}
+
+.index-hero-section .index-hero-btn-primary {
+  background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 50%, var(--primary-color) 100%) !important;
+  background-size: 200% 200% !important;
+  border: none !important;
+  letter-spacing: 0.08em !important;
+  text-transform: uppercase !important;
+  font-size: 0.78rem !important;
+  transition: background-position 0.4s ease, box-shadow 0.3s ease !important;
+  box-shadow: 0 4px 20px rgba(201, 168, 76, 0.3) !important;
+}
+
+.index-hero-section .index-hero-btn-primary:hover {
+  background-position: right center !important;
+  box-shadow: 0 6px 32px rgba(201, 168, 76, 0.5) !important;
+}
+
+.navbar .nav-cta-btn {
+  border: 1px solid var(--primary-color) !important;
+  letter-spacing: 0.06em !important;
+  text-transform: uppercase !important;
+  font-size: 0.72rem !important;
+}
+
+.index-features-section .ifs-eyebrow,
+.index-process-section .ips-eyebrow,
+.index-testimonials-section .its-eyebrow,
+.index-cta-section .index-cta-badge {
+  color: var(--primary-color) !important;
+  letter-spacing: 0.15em !important;
+  text-transform: uppercase !important;
+  font-size: 0.72rem !important;
+  font-family: 'Jost', sans-serif !important;
+  font-weight: 400 !important;
+}
+
+.index-testimonials-section .its-quote-mark {
+  color: var(--primary-color) !important;
+  opacity: 0.6 !important;
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 5rem !important;
+}
+
+.index-stats-section .index-stats-tile-icon svg circle[fill="var(--accent)"],
+.index-stats-section .index-stats-tile-icon svg circle[fill="var(--secondary)"] {
+  fill: rgba(201, 168, 76, 0.12) !important;
+}
+
+.index-process-section .ips-step-num {
+  font-family: 'Cormorant Garamond', Georgia, serif !important;
+  font-size: 1.4rem !important;
+  font-weight: 700 !important;
+  color: var(--primary-color) !important;
+}
+
+.index-process-section .ips-step-marker {
+  border-color: rgba(201, 168, 76, 0.4) !important;
+  background: rgba(201, 168, 76, 0.06) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
